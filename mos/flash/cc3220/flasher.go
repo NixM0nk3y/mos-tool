@@ -12,7 +12,7 @@ import (
 	"cesanta.com/mos/flash/cc32xx"
 	"cesanta.com/mos/flash/common"
 	"github.com/cesanta/errors"
-	"github.com/cesanta/go-serial/serial"
+	"github.com/NixM0nk3y/go-serial/serial"
 )
 
 type FlashOpts struct {

@@ -52,6 +52,13 @@
 			"revisionTime": "2018-10-16T16:45:35Z"
 		},
 		{
+			"checksumSHA1": "E5fPNf8kgj0C81M42h2S7F48gXs=",
+			"path": "github.com/NixM0nk3y/go-serial",
+			"revision": "c8ed0af0dcf71cf2bfaede7cdb8052f11b100400",
+			"revisionTime": "2019-04-24T20:39:03Z",
+			"tree": true
+		},
+		{
 			"checksumSHA1": "Aqy8/FoAIidY/DeQ5oTYSZ4YFVc=",
 			"path": "github.com/Nvveen/Gotty",
 			"revision": "cd527374f1e5bff4938207604a14f2e38a9cf512",
@@ -248,12 +255,6 @@
 			"path": "github.com/cesanta/errors",
 			"revision": "5adec772d663041cbdccdb991c0d9115c00a7c75",
 			"revisionTime": "2016-06-12T17:44:07Z"
-		},
-		{
-			"checksumSHA1": "CscHjPjg+lpS6usVpTaghhthl2c=",
-			"path": "github.com/cesanta/go-serial/serial",
-			"revision": "4dff7aff019e8defadc9af687b28acc6636a785a",
-			"revisionTime": "2017-01-05T15:26:49Z"
 		},
 		{
 			"checksumSHA1": "6f+5TuFHFcdfgPFiszF+DU3zqd0=",

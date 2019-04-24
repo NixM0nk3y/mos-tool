@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/cesanta/errors"
-	"github.com/cesanta/go-serial/serial"
+	"github.com/NixM0nk3y/go-serial/serial"
 	"github.com/golang/glog"
 )
 

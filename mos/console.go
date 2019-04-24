@@ -25,7 +25,7 @@ import (
 	"cesanta.com/mos/timestamp"
 
 	"github.com/cesanta/errors"
-	"github.com/cesanta/go-serial/serial"
+	"github.com/NixM0nk3y/go-serial/serial"
 	flag "github.com/spf13/pflag"
 )
 

@@ -15,7 +15,7 @@ import (
 	"cesanta.com/mos/flash/esp32"
 	"cesanta.com/mos/flash/esp8266"
 	"github.com/cesanta/errors"
-	"github.com/cesanta/go-serial/serial"
+	"github.com/NixM0nk3y/go-serial/serial"
 	"github.com/golang/glog"
 )
 
